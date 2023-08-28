@@ -70,6 +70,10 @@ main {
     left: 50%;
     transform: translateX(-50%);
     top: 0;
+
+    border-radius: 16px;
+    background: #F4F4F4;
+    box-shadow: 0px 4px 11px 5px rgba(34, 34, 34, 0.13);
 }
 
 hr {
@@ -239,6 +243,7 @@ hr {
 #fourth-image {
     background: url('./images/project4.png'), lightgray no-repeat;
     background-position: center;
+    background-color: #F4F4F4;
 }
 
 /* Side bar */
